@@ -1,0 +1,80 @@
+body {
+  background-image: url(images/full-bloom.png);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.jumbotron {
+  background-image: url(images/unnamed.png);
+  background-size: cover;
+  height: 360px;
+}
+
+.display-4 {
+  margin-top: 3%;
+}
+
+.jumbotron, .navbar {
+  /* font-family: 'Staatliches', cursive; */
+  font-family: 'Handlee', cursive;
+  /* font-family: 'Fredericka the Great', cursive; */
+  /* font-family: 'Rancho', cursive; */
+
+
+}
+
+.jumbotron {
+  background: rgb(170, 161, 162)0cb;
+}
+
+.nav-item {
+  font-size: 22px;
+  padding-right: 30px;
+}
+
+.navbar-brand {
+  font-size: 26px;
+  font-size: bolder;
+  padding-left: 20px;
+}
+
+.navbar {
+  margin-top: -130px;
+  background-color: rgba(66, 63, 63, 0.746); 
+}
+
+.navbar a {
+  color: whitesmoke;
+  transition: 0.7s all;
+}
+
+.navbar a:hover{
+  color: orange;
+}
+
+.yolo img {
+  position: relative;
+  margin-top: -340px;
+  margin-left: 79%;
+}
+
+.footer p {
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bolder;
+  background-color: #eff1f100;
+}
+
+.card, .navbar {
+  /* font-family: 'Handlee', cursive;
+  font-family: 'Fredericka the Great', cursive; */
+  font-family: 'Voltaire', sans-serif;
+
+
+}
+
+
+
